@@ -18,5 +18,6 @@ git clone https://github.com/Farhad8797/pyqt-gui-learning.git
 pip install -r requirements.txt
 ```
 
-### Gratitude and appreciation
+### Acknowledgements
+---
 Special thanks to [Josh](https://www.youtube.com/@codewithjoshoffical) for his awesome tutorial: [Python App Development: Build Modern GUIs in 7 Hours](https://www.youtube.com/watch?v=f_9NBdSAo-g&t=23830s)
